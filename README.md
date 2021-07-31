@@ -1,5 +1,5 @@
-#Hello👋  Namaste🙏  Hola🙋🏽‍♀️
-#My name is Sangeeta Singh
+# Hello👋  Namaste🙏  Hola🙋🏽‍♀️
+### My name is Sangeeta Singh
 
 - 🔭 I’m currently working on exploring my interests.
 - 🌱 I’m currently learning frontend web development
