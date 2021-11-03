@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sangeeta Singh</h1>
-<h3 align="center">A developer, CP enthusiast, technical content writer and learner for life. I love programming, writing, speaking and travelling. As a developer, I focus on learning the technology to make things that make a difference.</h3>
+<h3 align="center">A developer, CP enthusiast, technical content writer and learner for life. I love programming and as a developer, I focus on learning the technology to make things that make a difference :)</h3>
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangeetasingh17" alt="sangeetasingh17" width="800"/></a> </p>
-
-- 🌱 I’m currently learning **full-stack web development;**
-
-- 👯 I’m looking to collaborate on **various open source projects;**
-
-- 💬 Ask me about **Competitive Programming, Python3, c++, html and CSS**
-
-- 🤝 I’m looking for help with **any of the above;**
-
-- 📝 I regularly write articles on Medium: [https://medium.com/@Sangeeta17](https://medium.com/@Sangeeta17)
-
-- 📫 How to reach me: **https://www.linkedin.com/in/sangeetasingh17/**
 
 <img align="right" width= "380" src="https://miro.medium.com/fit/c/184/184/1*zm5NLjdhGd3VVTA2u-xEPg.gif"/>
 <br>
