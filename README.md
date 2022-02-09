@@ -18,6 +18,7 @@
 <a href="https://medium.com/@Sangeeta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Sangeeta17" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sangeeta_17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sangeeta_17" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/singh_sangeeta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="singh_sangeeta" height="30" width="40" /></a>
+ <a href="https://codeforces.com/profile/SangeetaSingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="SangeetaSingh" height="30" width="40" /></a>
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangeetasingh17&show_icons=true&locale=en&layout=compact" alt="sangeetasingh17" width="300"/></p>
 <br>
