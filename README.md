@@ -12,7 +12,7 @@
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
-<a href="https://twitter.com/Sangeeta__17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sangeeta__17" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/sangeetasingh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeetasingh17" height="30" width="40" /></a>
 <a href="https://instagram.com/iam_sangeeta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_sangeeta17" height="30" width="40" /></a>
 <a href="https://medium.com/@Sangeeta17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@Sangeeta17" height="30" width="40" /></a>
