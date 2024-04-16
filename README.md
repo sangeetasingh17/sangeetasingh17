@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sangeeta Singh</h1>
-<h3 align="center">A developer, CP enthusiast, technical content writer and learner for life. I love programming and as a developer, I focus on learning the technology to make things that make a difference :)</h3>
+<h3 align="center">A developer, CP enthusiast, technical content writer and learner for life.</h3>
 <br>
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord"><img src="https://github-profile-trophy.vercel.app/?username=sangeetasingh17" alt="sangeetasingh17" width="800"/></a> </p>
 
